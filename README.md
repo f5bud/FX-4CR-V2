@@ -13,7 +13,7 @@ If you want to be able to return to official firmware you will have to re-enter 
 
 ## Installing
 Download the latest firmware from release and flash it.<br>
-https://github.com/f5bud/FX-4CR-V2//tree/main/releases<br>
+https://github.com/f5bud/FX-4CR-V2/releases<br>
 Before you start using the radio in transmission, you must perform an alignment.<br>
 Follow the procedure in the service manual.
 
