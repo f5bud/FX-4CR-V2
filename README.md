@@ -22,4 +22,4 @@ There are some changes in functions.<br>
 Keep in mind that this is the first public release and there may be some setbacks.<br>
 This version should be considered a beta.
 
-73 by Daniel, F5BUD
+73 de Daniel, F5BUD
