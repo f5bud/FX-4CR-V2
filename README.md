@@ -1,5 +1,5 @@
 # FX-4CR-V2 firmware
-![Screenshot of the main radio](notes/ScreenSSB.jpg)<br>
+![Screenshot of the main radio](notes/MainScreen.jpg)<br>
 This is totally new firmware for the FX-4CR radio.<br>
 **Due to a hardware change this version will not be flashed on radios delivered after January 2024.**<br>
 *(Updates will allow this later.)*
@@ -13,7 +13,7 @@ If you want to be able to return to official firmware you will have to re-enter 
 
 ## Installing
 Download the latest firmware from release and flash it.<br>
-https://github.com/f5bud/FX-4CR-V2/releases/tag/release<br>
+https://github.com/f5bud/FX-4CR-V2/releases<br>
 Before you start using the radio in transmission, you must perform an alignment.<br>
 Follow the procedure in the service manual.
 
