@@ -1,7 +1,7 @@
 ## FX-4CR-V2 firmware
 ![Screenshot of the main radio](notes/MainScreen.jpg)<br>
 This is a new firmware written from scratch for the FX-4CR radio.<br>
-**Due to a hardware change this version will not be flashed on radios delivered after January 2024.**<br>
+**Due to a hardware change this version will not be flashed on radios delivered after <ins>January 2024</ins>.**<br>
 *(Updates will allow this later.)*
 
 ## Remark
