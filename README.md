@@ -13,13 +13,12 @@ To return to official firmware, you must re-enter the previously noted values.
 
 ## Installing
 Download and install the last firmware release.<br>
-The FX-4CR-V2 releases can be found at https://github.com/f5bud/FX-4CR-V2/releases.<br>
+The FX-4CR-V2 releases can be found at [releases](https://github.com/f5bud/FX-4CR-V2/releases).<br>
 You must align your radio before transmitting, otherwise the power and voltage will not be correct.
 
 ## Usage
 Please read the user manual.<br>
 There are some changes in features.<br>
-Keep in mind that this is the first public release and there may be some glitches.<br>
-This version should be considered as beta.<br>
+Keep in mind that this is the first public release and there may be some glitches.
 
 73, Daniel F5BUD
