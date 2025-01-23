@@ -1,3 +1,5 @@
+![FX-4CR-R2](https://github.com/user-attachments/assets/a0c3b9a3-944f-4aa6-97e7-3696c1d8546e)
+
 ## FX-4CR-V2 firmware
 This is a new firmware written from scratch for the [FX-4CR](https://bg2fx.com) radio.<br>
 
