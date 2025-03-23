@@ -19,17 +19,15 @@ A firmware update may cause the radio to crash at startup.
 In this case perform a <ins><b>FACTORY RESET</b></ins>. Press A.B. + PWR until radio starts.
 
 ## Revision "R" Radio
-[FX-4CR-V2-R-25-03-23.zip](https://github.com/user-attachments/files/19410614/FX-4CR-V2-R-25-03-23.zip)
-
-[FX-4CR-V2-R-25-03-23.zip](updates/FX-4CR-V2-R-25-03-23.zip) $${\color{red}Factory \space reset \space need \space !!!}$$
+[FX-4CR-V2-R-25-03-23.zip](https://github.com/user-attachments/files/19410614/FX-4CR-V2-R-25-03-23.zip) $${\color{red}Factory \ reset \ need \ !!!}$$
 - Add serial number in the first menu item
 - Change the noise reducer with a Kalman filter, adapted to voice
 - Change key to activate reducer ! (press AF)
 
-[FX-4CR-V2-R-25-03-10.zip](updates/FX-4CR-V2-R-25-03-10.zip) $${\color{red}Factory \space reset \space need \space !!!}$$ (if you are coming from a version prior to 25-03-08)
+[FX-4CR-V2-R-25-03-10.zip](https://github.com/user-attachments/files/19410617/FX-4CR-V2-R-25-03-10.zip) $${\color{red}Factory \ reset \ need \ !!!}$$ (if you are coming from a version prior to 25-03-08)
 - Change AF in ranges 0-63 to fine tune, especially headset
 
-[FX-4CR-V2-R-25-03-08.zip](updates/FX-4CR-V2-R-25-03-08.zip) $${\color{red}Factory \ reset \ need \ !!!}$$
+[FX-4CR-V2-R-25-03-08.zip](https://github.com/user-attachments/files/19410618/FX-4CR-V2-R-25-03-08.zip) $${\color{red}Factory \ reset \ need \ !!!}$$
 - Add bass and treble control for speaker
 - Add bass and treble control for microphone in AM, FM, SSB
 
@@ -39,14 +37,13 @@ The zip file contains three files:
 - FX-4CR-User-Manual (V2.xx-R).pdf: user and maintenance manuals included.
 
 
-
 ## Revision "V" Radio
-[FX-4CR-V2-V-25-02-19.zip](updates/FX-4CR-V2-V-25-02-19.zip)
+[FX-4CR-V2-V-25-02-19.zip](https://github.com/user-attachments/files/19410620/FX-4CR-V2-V-25-02-19.zip)
 + User manual update and warning regarding keyer and mic ports
 + Add user manual
 + Change in SSB and transmission bandwidth 300-2700 Hz
 
-[FX-4CR-V2-V-25-01-27.zip](updates/FX-4CR-V2-V-25-01-27.zip)
+[FX-4CR-V2-V-25-01-27.zip](https://github.com/user-attachments/files/19410621/FX-4CR-V2-V-25-01-27.zip)
 - Fix an inconsistent power level
 - Fix Screen error, sometimes the screen appears to be shifted by several lines.
 
