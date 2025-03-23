@@ -1,7 +1,7 @@
 ## FX-4CR-V2 firmware
 This is a new firmware written from scratch for the [FX-4CR](https://bg2fx.com) radio.<br>
 
->[!IMPORTANT]
+>[!CAUTION]
 Use this firmware only if you are comfortable with the technique.<br>
 Read and comprehend the service manual.<br>
 Note down all the values of the various menus, both user and technical.<br>
