@@ -19,6 +19,8 @@ A firmware update may cause the radio to crash at startup.
 In this case perform a <ins><b>FACTORY RESET</b></ins>. Press A.B. + PWR until radio starts.
 
 ## Revision "R" Radio
+[FX-4CR-V2-R-25-03-23.zip](https://github.com/user-attachments/files/19410614/FX-4CR-V2-R-25-03-23.zip)
+
 [FX-4CR-V2-R-25-03-23.zip](updates/FX-4CR-V2-R-25-03-23.zip) $${\color{red}Factory \space reset \space need \space !!!}$$
 - Add serial number in the first menu item
 - Change the noise reducer with a Kalman filter, adapted to voice
