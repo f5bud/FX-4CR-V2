@@ -10,9 +10,8 @@ To return to official firmware, you must re-enter the previously noted values.
 
 >[!IMPORTANT]
 Use this document to back up your official radio setup
-[FX-4CR-Backup.pdf](updates/FX-4CR-Backup.pdf)
-&nbsp;
-To use these versions, you must calibrate the radio. Consult the manual and follow the recommendations!
+[FX-4CR-Backup.pdf](https://github.com/user-attachments/files/19410636/FX-4CR-Backup.pdf)
+<br>To use these versions, you must calibrate the radio. Consult the manual and follow the recommendations!
 
 >[!NOTE]
 A firmware update may cause the radio to crash at startup.
