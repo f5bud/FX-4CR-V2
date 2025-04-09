@@ -18,6 +18,12 @@ A firmware update may cause the radio to crash at startup.
 In this case perform a <ins><b>FACTORY RESET</b></ins>. Press A.B. + PWR until radio starts.
 
 ## Revision "R" Radio
+[FX-4CR-V2-R-25-04-09.zip](https://github.com/user-attachments/files/19669276/FX-4CR-V2-R-25-04-09.zip)
+$${\color{red}Factory \ reset \ need \ !!!}$$ (if you are coming from a version prior to 25-03-25)
+- Change the fft hanning filter (<b>RSSI calibration will need to be redone</b> It is dependent on the fft !)
+- Add fft magnetude correction
+- Active pass-through filter for frequencies below 3 MHz (for swl)
+
 [FX-4CR-V2-R-25-04-05.zip](https://github.com/user-attachments/files/19616815/FX-4CR-V2-R-25-04-05.zip)
 $${\color{red}Factory \ reset \ need \ !!!}$$ (if you are coming from a version prior to 25-03-25)
 - Change Aux-Level max: 200 to 400
