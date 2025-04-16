@@ -18,6 +18,19 @@ A firmware update may cause the radio to crash at startup.
 In this case perform a <ins><b>FACTORY RESET</b></ins>. Press A.B. + PWR until radio starts.
 
 ## Revision "R" Radio
+[FX-4CR-V2-R-25-04-16.zip](https://github.com/user-attachments/files/19780718/FX-4CR-V2-R-25-04-16.zip)
+$${\color{red}Factory \ reset \ need \ !!!}$$
+- Add notch filter
+- Improved message design
+- Change waterfall colors
+- Fix somes click on strong signal
+- Fix possibly missing sign dit or dah in CW
+
+Please refer to the user manual !
+Noise reduction is accessed using the FILTER button, and the notch by pressing TUNE button.
+There has been a slight redesign of the code and there may be a glitch.
+The calibration hasn't changed, so if you have a problem, revert to the previous version and do a factory reset.
+
 [FX-4CR-V2-R-25-04-09.zip](https://github.com/user-attachments/files/19669276/FX-4CR-V2-R-25-04-09.zip)
 $${\color{red}Factory \ reset \ need \ !!!}$$ (if you are coming from a version prior to 25-03-25)
 - Change the fft hanning filter (<b>RSSI calibration will need to be redone</b> It is dependent on the fft !)
