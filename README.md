@@ -26,9 +26,9 @@ $${\color{red}Factory \ reset \ need \ !!!}$$
 - Fix somes click on strong signal
 - Fix possibly missing sign dit or dah in CW
 
-Please refer to the user manual !
-Noise reduction is accessed using the FILTER button, and the notch by pressing TUNE button.
-There has been a slight redesign of the code and there may be a glitch.
+Please refer to the user manual !<br>
+Noise reduction is accessed using the FILTER button, and the notch by pressing TUNE button.<br>
+There has been a slight redesign of the code and there may be a glitch.<br>
 The calibration hasn't changed, so if you have a problem, revert to the previous version and do a factory reset.
 
 [FX-4CR-V2-R-25-04-09.zip](https://github.com/user-attachments/files/19669276/FX-4CR-V2-R-25-04-09.zip)
