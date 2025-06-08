@@ -18,12 +18,17 @@ A firmware update may cause the radio to crash at startup.
 In this case perform a <ins><b>FACTORY RESET</b></ins>. Press A.B. + PWR until radio starts.
 
 ## Revision "R" Radio
-[FX-4CR-V2-R-25-04-30.zip](https://github.com/user-attachments/files/19997009/FX-4CR-V2-R-25-04-30.zip)
-$${\color{red}Factory \ reset \ need \ !!!}$$
+[FX-4CR-V2-R-25-06-08.zip](https://github.com/user-attachments/files/20643460/FX-4CR-V2-R-25-06-08.zip) Factory reset need !!!
+- Fixed a stupid bug in Bluetooth Rx/Tx
+- Changed RSSI and FFT routines
+- Added waterfall offset for the eatch band (-30 dB, +20 dB)
+- Transparent menu background
+- <b>RSSI calibration has changed !</b> (If you don't want to recalibrate, add +10 to RSSI-Cal)
+
+[FX-4CR-V2-R-25-04-30.zip](https://github.com/user-attachments/files/19997009/FX-4CR-V2-R-25-04-30.zip) Factory reset need !!!
 - Add noise blanker
 
-[FX-4CR-V2-R-25-04-17.zip](https://github.com/user-attachments/files/19790533/FX-4CR-V2-R-25-04-17.zip)
-$${\color{red}Factory \ reset \ need \ !!!}$$
+[FX-4CR-V2-R-25-04-17.zip](https://github.com/user-attachments/files/19790533/FX-4CR-V2-R-25-04-17.zip) Factory reset need !!!
 - Changed key assignments for more logic
 - Add notch filter
 - Improved message design
@@ -36,37 +41,21 @@ Noise reduction and the notch is accessed using the FILTER button.<br>
 There has been a slight redesign of the code and there may be a glitch.<br>
 The calibration hasn't changed, so if you have a problem, revert to the previous version and do a factory reset.
 
-[FX-4CR-V2-R-25-04-09.zip](https://github.com/user-attachments/files/19669276/FX-4CR-V2-R-25-04-09.zip)
-$${\color{red}Factory \ reset \ need \ !!!}$$ (if you are coming from a version prior to 25-03-25)
+From older vertions:
 - Change the fft hanning filter (<b>RSSI calibration will need to be redone</b> It is dependent on the fft !)
 - Add fft magnetude correction
 - Active pass-through filter for frequencies below 3 MHz (for swl)
-
-[FX-4CR-V2-R-25-04-05.zip](https://github.com/user-attachments/files/19616815/FX-4CR-V2-R-25-04-05.zip)
-$${\color{red}Factory \ reset \ need \ !!!}$$ (if you are coming from a version prior to 25-03-25)
 - Change Aux-Level max: 200 to 400
 - Change DIG HiPass: 3000 to 3200
 - Fixed SSB voice call and CW message call that could call outside of ham radio bands
 - Fixed FM modulation
 - Change Agc Medium: 600 to 1000mS
 - Change method to compute waterfall and fft display
-
-[FX-4CR-V2-R-25-03-25.zip](https://github.com/user-attachments/files/19450923/FX-4CR-V2-R-25-03-25.zip)
-$${\color{red}Factory \ reset \ need \ !!!}$$
 - Add RX only mode (Press and hold M.V)
-
-[FX-4CR-V2-R-25-03-23.zip](https://github.com/user-attachments/files/19410614/FX-4CR-V2-R-25-03-23.zip)
-$${\color{red}Factory \ reset \ need \ !!!}$$
 - Add serial number in the first menu item
 - Change the noise reducer with a Kalman filter, adapted to voice
 - Change key to activate reducer ! (press AF)
-
-[FX-4CR-V2-R-25-03-10.zip](https://github.com/user-attachments/files/19410617/FX-4CR-V2-R-25-03-10.zip)
-$${\color{red}Factory \ reset \ need \ !!!}$$ (if you are coming from a version prior to 25-03-08)
 - Change AF in ranges 0-63 to fine tune, especially headset
-
-[FX-4CR-V2-R-25-03-08.zip](https://github.com/user-attachments/files/19410618/FX-4CR-V2-R-25-03-08.zip)
-$${\color{red}Factory \ reset \ need \ !!!}$$
 - Add bass and treble control for speaker
 - Add bass and treble control for microphone in AM, FM, SSB
 
