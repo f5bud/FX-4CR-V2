@@ -31,7 +31,6 @@ This results in an improvement in dynamics.
 - Fixed float to 24bits conversion
 - Active hipass in wm8978, remove software hipass
 - Change version number to 2.12
-- Fixed a stupid bug in bluetooth Rx/Tx
 
 [FX-4CR-V2-R-25-06-08.zip](https://github.com/user-attachments/files/20643460/FX-4CR-V2-R-25-06-08.zip) Factory reset need !!!
 - Fixed a stupid bug in Bluetooth Rx/Tx
