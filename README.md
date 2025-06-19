@@ -18,6 +18,21 @@ A firmware update may cause the radio to crash at startup.
 In this case perform a <ins><b>FACTORY RESET</b></ins>. Press A.B. + PWR until radio starts.
 
 ## Revision "R" Radio
+>[!NOTE]
+First, consider this a beta test because there have been some important corrections.<br>
+The RSSI calibration needs to be redone because one of the corrections concerns the ADC data.<br>
+This results in an improvement in dynamics.
+
+[FX-4CR-V2-R-25-06-19.zip](https://github.com/user-attachments/files/20818463/FX-4CR-V2-R-25-06-19.zip) Factory reset need !!!
+- Add overruns indicator when signals are very hight
+- Adopt global Rit, Xit, Split selection mode (Long press Tune to change mode)
+- Upgrade CAT commands and put FR and FT
+- Fixed a lost bit during I2S transfer
+- Fixed float to 24bits conversion
+- Active hipass in wm8978, remove software hipass
+- Change version number to 2.12
+- Fixed a stupid bug in bluetooth Rx/Tx
+
 [FX-4CR-V2-R-25-06-08.zip](https://github.com/user-attachments/files/20643460/FX-4CR-V2-R-25-06-08.zip) Factory reset need !!!
 - Fixed a stupid bug in Bluetooth Rx/Tx
 - Changed RSSI and FFT routines
