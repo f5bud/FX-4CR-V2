@@ -18,6 +18,13 @@ A firmware update may cause the radio to crash at startup.
 In this case perform a <ins><b>FACTORY RESET</b></ins>. Press A.B. + PWR until radio starts.
 
 ## Revision "R" Radio
+[FX-4CR-V2-R-01-08-25.zip](https://github.com/user-attachments/files/21550767/FX-4CR-V2-R-01-08-25.zip) Factory reset if you come from a version lower than 25-06-19
+- update SM CAT commands, add PC, PS CAT commands
+- The VFO can go down to 200kHz
+- The spectral purity of the VFO has been improved
+- Add DC remover over AM demod
+- Fix loPass on AM
+
 [FX-4CR-V2-R-25-06-26.zip](https://github.com/user-attachments/files/20928095/FX-4CR-V2-R-25-06-26.zip) Factory reset if you come from a version lower than 25-06-19
 - Update CAT cmds for SIMPLE software, a logbook, and more for Android: [SIMPLE by SP5NZF](https://sites.google.com/view/9h48sqc6ygs8c3kx9pg2/home)
 
