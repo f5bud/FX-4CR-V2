@@ -18,12 +18,17 @@ A firmware update may cause the radio to crash at startup.
 In this case perform a <ins><b>FACTORY RESET</b></ins>. Press A.B. + PWR until radio starts.
 
 ## Revision "R" Radio
+[FX-4CR-V2-R-25-09-03.zip](https://github.com/user-attachments/files/22123386/FX-4CR-V2-R-25-09-03.zip) Factory reset if you come from a version prior to 25-08-11
+- fix CW practice errors
+- add trace of sent CW messages (long press AF to clear)
+- change in split mode A or B indefinitely
+- attempt to fix bug with hamlib and split mode (but it's not working at the moment)
+
 [FX-4CR-V2-R-25-08-28.zip](https://github.com/user-attachments/files/22026212/FX-4CR-V2-R-25-08-28.zip) Factory reset if you come from a version prior to 25-08-11
 - fix CAT error with hamlib
 - reduced power consumption by lowering the CPU clock and using sleep mode
 - without a signal, the consumption is less than 190mA at 12.0V
 - add a copie of changelog.txt in the zip
-
 
 [FX-4CR-V2-R-25-08-20.zip](https://github.com/user-attachments/files/21899473/FX-4CR-V2-R-25-08-20.zip) Factory reset if you come from a version prior to 25-08-11
 - add table of contents in manual-user
