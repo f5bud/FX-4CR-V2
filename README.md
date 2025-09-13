@@ -18,6 +18,9 @@ A firmware update may cause the radio to crash at startup.
 In this case perform a <ins><b>FACTORY RESET</b></ins>. Press A.B. + PWR until radio starts.
 
 ## Revision "R" Radio
+[FX-4CR-V2-R-25-09-13.zip](https://github.com/user-attachments/files/22311808/FX-4CR-V2-R-25-09-13.zip) Factory reset if you come from a version prior to 25-08-11
+- add a short delay for displaying CW messages
+
 [FX-4CR-V2-R-25-09-03.zip](https://github.com/user-attachments/files/22123386/FX-4CR-V2-R-25-09-03.zip) Factory reset if you come from a version prior to 25-08-11
 - fix CW practice errors
 - add trace of sent CW messages (long press AF to clear)
