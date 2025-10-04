@@ -23,7 +23,8 @@ The zip file contains three files:
 - FX-4CR-V2R-User-Manual-US.pdf: user and maintenance manuals included.
 
 ## Revision "R" Radio
-[FX-4CR-V2-R-25-10-03.zip](https://github.com/user-attachments/files/22683244/FX-4CR-V2-R-25-10-03.zip) Factory reset
+[FX-4CR-V2-R-25-10-04.zip](https://github.com/user-attachments/files/22696031/FX-4CR-V2-R-25-10-04.zip) **(Factory reset need)**
+- fix switching band filters error
 - change revision number to 2.14
 - modification in the sidetone audio volume control
 - reduced rx/tx switching time and logic change
