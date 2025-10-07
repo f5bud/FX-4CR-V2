@@ -23,6 +23,10 @@ The zip file contains three files:
 - FX-4CR-V2R-User-Manual-US.pdf: user and maintenance manuals included.
 
 ## Revision "R" Radio
+[FX-4CR-V2-R-25-10-07.zip](https://github.com/user-attachments/files/22737827/FX-4CR-V2-R-25-10-07.zip) **(Factory reset need)**
+- fixed problem with hamlib and split mode in wsjt-x
+- Changed the status bar to include the temperature
+- Added an information splash in running beacon mode
 
 [FX-4CR-V2-R-25-10-04.zip](https://github.com/user-attachments/files/22696031/FX-4CR-V2-R-25-10-04.zip) **(Factory reset need)**
 - fix switching band filters error
