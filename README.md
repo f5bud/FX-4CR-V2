@@ -23,6 +23,10 @@ The zip file contains three files:
 - FX-4CR-V2R-User-Manual-US.pdf: user and maintenance manuals included.
 
 ## Revision "R" Radio
+[FX-4CR-V2-R-25-10-08.zip](https://github.com/user-attachments/files/22763898/FX-4CR-V2-R-25-10-08.zip) **(Factory reset need)**
+- add menu for initial mode SSB or DIG when CAT cmd is send
+- fix corrects the value of the attenuators
+
 [FX-4CR-V2-R-25-10-07.zip](https://github.com/user-attachments/files/22737827/FX-4CR-V2-R-25-10-07.zip) **(Factory reset need)**
 - fixed problem with hamlib and split mode in wsjt-x
 - Changed the status bar to include the temperature
