@@ -23,6 +23,10 @@ The zip file contains three files:
 - FX-4CR-V2R-User-Manual-US.pdf: user and maintenance manuals included.
 
 ## Revision "R" Radio
+[FX-4CR-V2-R-25-10-15.zip](https://github.com/user-attachments/files/22954374/FX-4CR-V2-R-25-10-15.zip) **(Factory reset need)**
+- adds bandwidth adjustment to TX
+- change the low level on mic and aux to 10
+
 [FX-4CR-V2-R-25-10-08.zip](https://github.com/user-attachments/files/22763898/FX-4CR-V2-R-25-10-08.zip) **(Factory reset need)**
 - add menu for initial mode SSB or DIG when CAT cmd is send
 - fix corrects the value of the attenuators
@@ -55,58 +59,6 @@ The zip file contains three files:
 - add trace of sent CW messages (long press AF to clear)
 - change in split mode A or B indefinitely
 - attempt to fix bug with hamlib and split mode (but it's not working at the moment)
-
-From older vertions:
-- fix CAT error with hamlib
-- reduced power consumption by lowering the CPU clock and using sleep mode
-- without a signal, the consumption is less than 190mA at 12.0V
-- add a copie of changelog.txt in the zip
-- add table of contents in manual-user
-- minor logic changes in SSB beacon mode
-- fix bug in backup calibration
-- add timer and repeat beacon (see user-manual)
-- update SM CAT commands, add PC, PS CAT commands
-- The VFO can go down to 200kHz
-- The spectral purity of the VFO has been improved
-- Add DC remover over AM demod
-- Fix loPass on AM
-- Update CAT cmds for SIMPLE software, a logbook, and more for Android: [SIMPLE by SP5NZF](https://sites.google.com/view/9h48sqc6ygs8c3kx9pg2/home)
-- Add overruns indicator when signals are very hight
-- Adopt global Rit, Xit, Split selection mode (Long press Tune to change mode)
-- Upgrade CAT commands and put FR and FT
-- Fixed a lost bit during I2S transfer
-- Fixed float to 24bits conversion
-- Active hipass in wm8978, remove software hipass
-- Change version number to 2.12
-- Fixed a stupid bug in Bluetooth Rx/Tx
-- Changed RSSI and FFT routines
-- Added waterfall offset for the eatch band (-30 dB, +20 dB)
-- Transparent menu background
-- <b>RSSI calibration has changed !</b> (If you don't want to recalibrate, add +10 to RSSI-Cal)
-- Add noise blanker
-- Changed key assignments for more logic
-- Add notch filter
-- Improved message design
-- Change waterfall colors
-- Fix somes click on strong signal
-- Fix possibly missing sign dit or dah in CW
-- Change the fft hanning filter (<b>RSSI calibration will need to be redone</b> It is dependent on the fft !)
-- Add fft magnetude correction
-- Active pass-through filter for frequencies below 3 MHz (for swl)
-- Change Aux-Level max: 200 to 400
-- Change DIG HiPass: 3000 to 3200
-- Fixed SSB voice call and CW message call that could call outside of ham radio bands
-- Fixed FM modulation
-- Change Agc Medium: 600 to 1000mS
-- Change method to compute waterfall and fft display
-- Add RX only mode (Press and hold M.V)
-- Add serial number in the first menu item
-- Change the noise reducer with a Kalman filter, adapted to voice
-- Change key to activate reducer ! (press AF)
-- Change AF in ranges 0-63 to fine tune, especially headset
-- Add bass and treble control for speaker
-- Add bass and treble control for microphone in AM, FM, SSB
-
 
 ## Revision "V" Radio
 [FX-4CR-V2-V-25-02-19.zip](https://github.com/user-attachments/files/19410620/FX-4CR-V2-V-25-02-19.zip)
