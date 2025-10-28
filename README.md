@@ -24,6 +24,16 @@ The zip file contains three files:
 - (UserManual US).pdf: user and maintenance manuals included.
 
 ## Revision "R" Radio
+[FX-4CR-V2R-25-10-28.zip](https://github.com/user-attachments/files/23189468/FX-4CR-V2R-25-10-28.zip) **(Requires calibration)**
+>[!IMPORTANT]
+This version completely erases the EPROM.<br>
+New radio memory management allows split frequency pairs to be stored.<br>
+The EPROM is partitioned into three areas: calibrations, memories, and settings.<br>
+Please read the **“Troubleshooting”** section of the user manual first.
+
+- change the memory management logic
+- change the SI5351 PLL frequency for sensitive models
+ 
 [FX-4CR-V2R-25-10-18.zip](https://github.com/user-attachments/files/22983193/FX-4CR-V2R-25-10-18.zip) **(Need factory reset for versions prior to 25-10-15)**
 - extension of the 10m to 11m band
 
@@ -38,12 +48,17 @@ The zip file contains three files:
 - see the changelog.txt in the zip file
 
 ## Revision "V" Radio
->[!NOTE]
-This is a major upgrade.<br>
-Revision "V" benefits from the latest developments in revision "R".<br>
-See the changelog.txt in the zip file for an overview of the upgrade.
+[FX-4CR-V2V-25-10-28.zip](https://github.com/user-attachments/files/23189682/FX-4CR-V2V-25-10-28.zip) **(Requires calibration)**
+>[!IMPORTANT]
+This version completely erases the EPROM.<br>
+New radio memory management allows split frequency pairs to be stored.<br>
+The EPROM is partitioned into three areas: calibrations, memories, and settings.<br>
+Please read the **“Troubleshooting”** section of the user manual first.
 
-[FX-4CR-V2V-25-10-18.zip](https://github.com/user-attachments/files/22983203/FX-4CR-V2V-25-10-18.zip) **(Factory reset and calibration required)**
+- change the memory management logic
+- change the SI5351 PLL frequency for sensitive models
+
+[FX-4CR-V2V-25-10-18.zip](https://github.com/user-attachments/files/22983203/FX-4CR-V2V-25-10-18.zip) **(dont't use this version, jump directly to 25-10-28)**
 - change revision number to 2.14
 - extension of the 10m to 11m band
 - adds bandwidth adjustment to TX
