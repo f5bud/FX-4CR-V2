@@ -24,6 +24,9 @@ The zip file contains three files:
 - (UserManual US).pdf: user and maintenance manuals included.
 
 ## Revision "R" Radio
+[FX-4CR-V2R-25-10-30.zip](https://github.com/user-attachments/files/23229465/FX-4CR-V2R-25-10-30.zip) **(Requires calibration for versions prior to 25-10-28)**
+- active mars/cap by IF.ATT + PWR
+
 [FX-4CR-V2R-25-10-28.zip](https://github.com/user-attachments/files/23189468/FX-4CR-V2R-25-10-28.zip) **(Requires calibration)**
 >[!IMPORTANT]
 This version completely erases the EPROM.<br>
@@ -48,6 +51,9 @@ Please read the **“Troubleshooting”** section of the user manual first.
 - see the changelog.txt in the zip file
 
 ## Revision "V" Radio
+[FX-4CR-V2V-25-10-30.zip](https://github.com/user-attachments/files/23229500/FX-4CR-V2V-25-10-30.zip) **(Requires calibration for versions prior to 25-10-28)**
+- active mars/cap by IF.ATT + PWR
+
 [FX-4CR-V2V-25-10-28.zip](https://github.com/user-attachments/files/23189682/FX-4CR-V2V-25-10-28.zip) **(Requires calibration)**
 >[!IMPORTANT]
 This version completely erases the EPROM.<br>
