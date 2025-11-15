@@ -24,9 +24,10 @@ The zip file contains three files:
 - (UserManual US).pdf: user and maintenance manuals included.
 
 ## Revision "R" Radio
-[FX-4CR-V2R-25-11-09.zip](https://github.com/user-attachments/files/23441309/FX-4CR-V2R-25-11-09.zip) **(Requires calibration for versions prior to 25-10-28)**
+[FX-4CR-V2R-25-11-15.zip](https://github.com/user-attachments/files/23562756/FX-4CR-V2R-25-11-15.zip) **(Requires calibration for versions prior to 25-10-28)**
+- raised cosine for CW sidetone
 
-This version poses problems. -> FX-4CR-V2R-25-11-08
+[FX-4CR-V2R-25-11-09.zip](https://github.com/user-attachments/files/23441309/FX-4CR-V2R-25-11-09.zip) **(Requires calibration for versions prior to 25-10-28)**
 - some cosmetic changes as 'C'elsius, 'F'arenheit, 'V'olts in status bar
 - moved bluetooth menu to second position
 - Reintroduction of the always-on mode for the screen
@@ -58,8 +59,9 @@ Please read the **“Troubleshooting”** section of the user manual first.
 - see the changelog.txt in the zip file
 
 ## Revision "V" Radio
-This version causes problems for some people.
-If it works for you, please let me know. Thank you.<br>
+[FX-4CR-V2V-25-11-15.zip](https://github.com/user-attachments/files/23562760/FX-4CR-V2V-25-11-15.zip) **(Requires calibration for versions prior to 25-10-28)**
+- raised cosine for CW sidetone
+
 [FX-4CR-V2V-25-11-08.zip](https://github.com/user-attachments/files/23434013/FX-4CR-V2V-25-11-08.zip) **(Requires calibration for versions prior to 25-10-28)**
 - some cosmetic changes as 'C'elsius, 'F'arenheit, 'V'olts in status bar
 - moved bluetooth menu to second position
