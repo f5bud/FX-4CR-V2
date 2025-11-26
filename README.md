@@ -33,20 +33,26 @@ The "V" and "VR" versions are distinguished by their XT60 power connector and 3.
 The "VR" version uses metal buttons.<br>
 The "R" version uses the same firmware. See the user manual.
 
-[FX-4CR-V2V-25-11-20.zip](https://github.com/user-attachments/files/23724151/FX-4CR-V2V-25-11-20.zip) **(Requires calibration for versions prior to 25-10-28)**
+## Firmwares:
+[FX-4CR-V2V-25-11-26.zip](https://github.com/user-attachments/files/23770914/FX-4CR-V2V-25-11-26.zip) **(Requires calibration for versions prior to 25-10-28)** <br>
+[FX-4CR-V2VR-25-11-26.zip](https://github.com/user-attachments/files/23770916/FX-4CR-V2VR-25-11-26.zip) **(Requires calibration for versions prior to 25-11-20)** <br>
+[FX-4CR-V2R-25-11-26.zip](https://github.com/user-attachments/files/23770917/FX-4CR-V2R-25-11-26.zip) **(Requires calibration for versions prior to 25-10-28)** <br>
 
-[FX-4CR-V2VR-25-11-20.zip](https://github.com/user-attachments/files/23724152/FX-4CR-V2VR-25-11-20.zip) **(Requires calibration)**
-
-[FX-4CR-V2R-25-11-20.zip](https://github.com/user-attachments/files/23724154/FX-4CR-V2R-25-11-20.zip) **(Requires calibration for versions prior to 25-10-28)**
+- fix a problem with DAC initialization
+- menu divided into sections specific to CW, Voice and Digi
+##
+[FX-4CR-V2V-25-11-20.zip](https://github.com/user-attachments/files/23724151/FX-4CR-V2V-25-11-20.zip) **(Requires calibration for versions prior to 25-10-28)** <br>
+[FX-4CR-V2VR-25-11-20.zip](https://github.com/user-attachments/files/23724152/FX-4CR-V2VR-25-11-20.zip) **(Requires calibration)** <br>
+[FX-4CR-V2R-25-11-20.zip](https://github.com/user-attachments/files/23724154/FX-4CR-V2R-25-11-20.zip) **(Requires calibration for versions prior to 25-10-28)** <br>
 
 - raised cosine for the less sweet CW sidetone
 - added hardware modifications "R-2025"
 - standardization of versions
 - "VR" radio support
 
-## Older versions
-[FX-4CR-V2R-25-11-15.zip](https://github.com/user-attachments/files/23562756/FX-4CR-V2R-25-11-15.zip) **(Requires calibration for versions prior to 25-10-28)**
-[FX-4CR-V2V-25-11-15.zip](https://github.com/user-attachments/files/23562760/FX-4CR-V2V-25-11-15.zip) **(Requires calibration for versions prior to 25-10-28)**
+## Older firmwares:
+[FX-4CR-V2R-25-11-15.zip](https://github.com/user-attachments/files/23562756/FX-4CR-V2R-25-11-15.zip) **(Requires calibration for versions prior to 25-10-28)** <br>
+[FX-4CR-V2V-25-11-15.zip](https://github.com/user-attachments/files/23562760/FX-4CR-V2V-25-11-15.zip) **(Requires calibration for versions prior to 25-10-28)** <br>
 - raised cosine for CW sidetone
 - some cosmetic changes as 'C'elsius, 'F'arenheit, 'V'olts in status bar
 - moved bluetooth menu to second position
