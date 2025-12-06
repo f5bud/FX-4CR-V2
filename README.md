@@ -30,7 +30,7 @@ The zip file contains three files:
 - "R-2025" (August 2025)
 
 The "V" and "VR" versions are distinguished by their XT60 power connector and 3.5 mm USB jack connector.<br>
-The "VR" version uses metal buttons.<br>
+The "VR" version uses metal knobs.<br>
 The "R" version uses the same firmware. See the user manual.
 
 ## Firmwares:
