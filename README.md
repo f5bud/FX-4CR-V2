@@ -34,6 +34,12 @@ The "VR" version uses metal knobs.<br>
 The "R" version uses the same firmware. See the user manual.
 
 ## Firmwares:
+[FX-4CR-V2V-25-12-08.zip](https://github.com/user-attachments/files/24028519/FX-4CR-V2V-25-12-08.zip) **(Requires calibration for versions prior to 25-10-28)** <br>
+[FX-4CR-V2VR-25-12-08.zip](https://github.com/user-attachments/files/24028520/FX-4CR-V2VR-25-12-08.zip) **(Requires calibration for versions prior to 25-10-20)** <br>
+[FX-4CR-V2R-25-12-08.zip](https://github.com/user-attachments/files/24028523/FX-4CR-V2R-25-12-08.zip) **(Requires calibration for versions prior to 25-10-28)** <br>
+
+- variable bandwidth in digital RX mode from 300 to 5000 Hz
+##
 [FX-4CR-V2V-25-11-26.zip](https://github.com/user-attachments/files/23770914/FX-4CR-V2V-25-11-26.zip) **(Requires calibration for versions prior to 25-10-28)** <br>
 [FX-4CR-V2VR-25-11-26.zip](https://github.com/user-attachments/files/23770916/FX-4CR-V2VR-25-11-26.zip) **(Requires calibration for versions prior to 25-11-20)** <br>
 [FX-4CR-V2R-25-11-26.zip](https://github.com/user-attachments/files/23770917/FX-4CR-V2R-25-11-26.zip) **(Requires calibration for versions prior to 25-10-28)** <br>
