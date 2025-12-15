@@ -34,11 +34,16 @@ The "VR" version uses metal knobs.<br>
 The "R" version uses the same firmware. See the user manual.
 
 ## Firmwares:
-[FX-4CR-V2V-25-12-08.zip](https://github.com/user-attachments/files/24028519/FX-4CR-V2V-25-12-08.zip) **(Requires calibration for versions prior to 25-10-28)** <br>
-[FX-4CR-V2VR-25-12-08.zip](https://github.com/user-attachments/files/24028520/FX-4CR-V2VR-25-12-08.zip) **(Requires calibration for versions prior to 25-10-20)** <br>
-[FX-4CR-V2R-25-12-08.zip](https://github.com/user-attachments/files/24028523/FX-4CR-V2R-25-12-08.zip) **(Requires calibration for versions prior to 25-10-28)** <br>
+Added parameters and expanded CW memory cause a reset.<br>
+**(Press and hold PWR until the main screen appears.)**<br>
+[FX-4CR-V2V-25-12-15.zip](https://github.com/user-attachments/files/24162364/FX-4CR-V2V-25-12-15.zip) **(settings and memories reset, calibration unaffected)** <br>
+[FX-4CR-V2VR-25-12-15.zip](https://github.com/user-attachments/files/24162372/FX-4CR-V2VR-25-12-15.zip) **(settings and memories reset, calibration unaffected)** <br>
+[FX-4CR-V2R-25-12-15.zip](https://github.com/user-attachments/files/24162374/FX-4CR-V2R-25-12-15.zip) **(settings and memories reset, calibration unaffected)** <br>
 
-- variable bandwidth in digital RX mode from 300 to 5000 Hz
+- modified filter management, now with low and high cut-off
+- CW message size increased to 50 characters
+- Tx audio bandwidth setting increased to 4 kHz
+
 ##
 [FX-4CR-V2V-25-11-26.zip](https://github.com/user-attachments/files/23770914/FX-4CR-V2V-25-11-26.zip) **(Requires calibration for versions prior to 25-10-28)** <br>
 [FX-4CR-V2VR-25-11-26.zip](https://github.com/user-attachments/files/23770916/FX-4CR-V2VR-25-11-26.zip) **(Requires calibration for versions prior to 25-11-20)** <br>
