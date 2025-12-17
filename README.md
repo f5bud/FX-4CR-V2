@@ -31,9 +31,15 @@ The zip file contains three files:
 
 The "V" and "VR" versions are distinguished by their XT60 power connector and 3.5 mm USB jack connector.<br>
 The "VR" version uses metal knobs.<br>
-The "R" version uses the same firmware. See the user manual.
+The "R" versions uses the same firmware. See the user manual.
 
 ## Firmwares:
+[FX-4CR-V2V-25-12-17.zip](https://github.com/user-attachments/files/24218800/FX-4CR-V2V-25-12-17.zip) **(Nothing from 25-12-15 versions)** <br>
+[FX-4CR-V2VR-25-12-17.zip](https://github.com/user-attachments/files/24218802/FX-4CR-V2VR-25-12-17.zip) **(Nothing from 25-12-15 versions)** <br>
+[FX-4CR-V2R-25-12-17.zip](https://github.com/user-attachments/files/24218803/FX-4CR-V2R-25-12-17.zip) **(Nothing from 25-12-15 versions)** <br>
+- add function to increment VFO in split mode (DX operations)
+
+##
 Added parameters and expanded CW memory cause a reset.<br>
 **(Press and hold PWR until the main screen appears.)**<br>
 [FX-4CR-V2V-25-12-15.zip](https://github.com/user-attachments/files/24162364/FX-4CR-V2V-25-12-15.zip) **(settings and memories reset, calibration unaffected)** <br>
