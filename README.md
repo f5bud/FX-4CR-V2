@@ -34,6 +34,14 @@ The "VR" version uses metal knobs.<br>
 The "R" versions uses the same firmware. See the user manual.
 
 ## Firmwares:
+Added parameters split and ctcss cause a reset.<br>
+**(Press and hold PWR until the main screen appears)**<br>
+[FX-4CR-V2V-26-01-05.zip](https://github.com/user-attachments/files/24449521/FX-4CR-V2V-26-01-05.zip) **(settings and memories reset, calibration unaffected)** <br>
+[FX-4CR-V2VR-26-01-05.zip](https://github.com/user-attachments/files/24449523/FX-4CR-V2VR-26-01-05.zip) **(settings and memories reset, calibration unaffected)** <br>
+[FX-4CR-V2R-26-01-05.zip](https://github.com/user-attachments/files/24449524/FX-4CR-V2R-26-01-05.zip) **(settings and memories reset, calibration unaffected)** <br>
+- add repeater options (shift and ctcss)
+
+##
 [FX-4CR-V2V-25-12-17.zip](https://github.com/user-attachments/files/24218800/FX-4CR-V2V-25-12-17.zip) **(Nothing from 25-12-15 versions)** <br>
 [FX-4CR-V2VR-25-12-17.zip](https://github.com/user-attachments/files/24218802/FX-4CR-V2VR-25-12-17.zip) **(Nothing from 25-12-15 versions)** <br>
 [FX-4CR-V2R-25-12-17.zip](https://github.com/user-attachments/files/24218803/FX-4CR-V2R-25-12-17.zip) **(Nothing from 25-12-15 versions)** <br>
@@ -41,7 +49,7 @@ The "R" versions uses the same firmware. See the user manual.
 
 ##
 Added parameters and expanded CW memory cause a reset.<br>
-**(Press and hold PWR until the main screen appears.)**<br>
+**(Press and hold PWR until the main screen appears)**<br>
 [FX-4CR-V2V-25-12-15.zip](https://github.com/user-attachments/files/24162364/FX-4CR-V2V-25-12-15.zip) **(settings and memories reset, calibration unaffected)** <br>
 [FX-4CR-V2VR-25-12-15.zip](https://github.com/user-attachments/files/24162372/FX-4CR-V2VR-25-12-15.zip) **(settings and memories reset, calibration unaffected)** <br>
 [FX-4CR-V2R-25-12-15.zip](https://github.com/user-attachments/files/24162374/FX-4CR-V2R-25-12-15.zip) **(settings and memories reset, calibration unaffected)** <br>
