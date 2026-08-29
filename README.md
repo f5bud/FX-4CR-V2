@@ -1,15 +1,19 @@
-<p align="center">
-  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=f5bud.FX-4CR-V2&title=Visitors&color=blue&style=flat-squar"/>
-  &nbsp;
-<!-- GitHub Stars -->
-  <img alt="Stars" src="https://img.shields.io/github/stars/f5bud/FX-4CR-V2?style=flat-square&logo=github"/>
-  &nbsp;
-<!-- Release Downloads -->
-  <img alt="Downloads" src="https://img.shields.io/github/downloads/f5bud/FX-4CR-V2/total?style=flat-square"/>
-  &nbsp;
-<!-- Issues -->
-  <img alt="Issues" src="https://img.shields.io/github/issues/f5bud/FX-4CR-V2?style=flat-square"/>
-</p>
+<div align="center">
+  
+[![Latest Release](https://img.shields.io/github/v/release/f5bud/FX-4CR-V2?label=Release&logo=github)](https://github.com/f5bud/FX-4CR-V2/releases/latest)
+&nbsp;
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=f5bud.FX-4CR-V2&title=Visitors&color=blue&style=flat-squar")
+&nbsp;
+![Stars](https://img.shields.io/github/stars/f5bud/FX-4CR-V2?style=flat-square&logo=github)
+&nbsp;
+![Downloads](https://img.shields.io/github/downloads/f5bud/FX-4CR-V2/total?style=flat-square)
+&nbsp;
+![Issues](https://img.shields.io/github/issues/f5bud/FX-4CR-V2?style=flat-square)
+&nbsp;
+![C++](https://img.shields.io/badge/C++-barre--metal-blue)
+&nbsp;
+![ARM](https://img.shields.io/badge/Arm-stm32h743-blue)
+</div>
 
 ## FX-4CR-V2 firmware
 This is a new firmware written from scratch for the [FX-4CR](https://bg2fx.com) radio.<br>
