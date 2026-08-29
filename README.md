@@ -1,3 +1,16 @@
+<p align="center">
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=f5bud.FX-4CR-V2&title=Visitors&color=blue&style=flat-squar"/>
+  &nbsp;
+<!-- GitHub Stars -->
+  <img alt="Stars" src="https://img.shields.io/github/stars/f5bud/FX-4CR-V2?style=flat-square&logo=github"/>
+  &nbsp;
+<!-- Release Downloads -->
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/f5bud/FX-4CR-V2/total?style=flat-square"/>
+  &nbsp;
+<!-- Issues -->
+  <img alt="Issues" src="https://img.shields.io/github/issues/f5bud/FX-4CR-V2?style=flat-square"/>
+</p>
+
 ## FX-4CR-V2 firmware
 This is a new firmware written from scratch for the [FX-4CR](https://bg2fx.com) radio.<br>
 
