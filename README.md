@@ -10,7 +10,7 @@
 &nbsp;
 ![Issues](https://img.shields.io/github/issues/f5bud/FX-4CR-V2?style=flat-square)
 &nbsp;
-![C++](https://img.shields.io/badge/C++-barre--metal-blue)
+![C++](https://img.shields.io/badge/C++-bare--metal-blue)
 &nbsp;
 ![ARM](https://img.shields.io/badge/Arm-stm32h743-blue)
 </div>
