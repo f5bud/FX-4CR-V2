@@ -35,11 +35,14 @@ Consult the manual and follow the recommendations!
 A firmware update may cause the radio to crash at startup.<br>
 In this case perform a factory reset. (See the user manual)
 
+## Firmwares:
+[The versions can be found in Releases](https://github.com/f5bud/FX-4CR-V2/releases)
+
 The zip file contains three files:
-- (changelog).txt: history of changes and corrections
-- (Firmware).hex: firmware to be flashed with ”STM32CubeProg” under Windows.
-- (Firmware).bin: firmware to be flashed with “dfu-util” under Linux.
-- (UserManual-US).pdf: User and maintenance manual.
++ (changelog).txt: history of changes and corrections
++ (Firmware).hex: firmware to be flashed with ”STM32CubeProg” under Windows.
++ (Firmware).bin: firmware to be flashed with “dfu-util” under Linux.
++ (UserManual-US).pdf: User and maintenance manual.
 
 ## Revision Radio:
 - "V-2022" (October 2022)
@@ -48,8 +51,5 @@ The zip file contains three files:
 - "R-2025" (August 2025)
 
 The "V" and "VR" versions are distinguished by their XT60 power connector and 3.5 mm USB jack connector.<br>
-The "VR" version uses metal knobs.<br>
-The "R" versions uses the same firmware. (See the user manual)
-
-## Firmwares:
-[The versions can be found in Releases](https://github.com/f5bud/FX-4CR-V2/releases)
+The "R" and "VR" versions uses metal knobs.<br>
+"R-2024" and "R-2025" versions uses the same firmware. (See the user manual)
